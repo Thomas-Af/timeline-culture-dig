@@ -1,0 +1,1089 @@
+
+/*-----------------------------------Modal 1969----------------------------------------------*/
+.modal1969amd {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 25px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal_content_amd_1969 {
+  background-color: red;
+  margin: auto;
+  padding: 20px;
+  /*border: 1px solid #888;*/
+  width: 90%;
+  margin-left: -60px;
+}
+
+/* The Close Button */
+.closeamd1969 {
+  color: #fff;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.closeamd1969:hover,
+.closeamd1969:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+/*------------*/
+.timeline ul li:nth-child(odd) div.modal1969amd::before {
+  border-color: transparent #C24852 transparent transparent;
+}
+.timeline ul li div.modal1969amd{
+  background: #C24852;
+}
+
+/*-----------------------------------Modal 1970 pdp----------------------------------------------*/
+.modal1970pdp {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal_content_pdp_1970 {
+  background-color: green;
+  margin: auto;
+  padding: 20px;
+  /*border: 1px solid #888;*/
+  width: 90%;
+}
+
+/* The Close Button */
+.closepdp1970 {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.closepdp1970:hover,
+.closepdp1970:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+/*------------*/
+.timeline ul li:nth-child(even) div.modal1970pdp::before {
+  border-color: transparent transparent transparent #C24852;
+}
+.timeline ul li div.modal1970pdp{
+  background: #C24852;
+}
+
+/*-----------------------------------Modal 1970 souris----------------------------------------------*/
+.modal1970souris {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal_content_souris_1970 {
+  background-color: green;
+  margin: auto;
+  padding: 20px;
+  /*border: 1px solid #888;*/
+  width: 90%;
+}
+
+/* The Close Button */
+.closesouris1970 {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.closesouris1970:hover,
+.closesouris1970:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+/*------------*/
+.timeline ul li:nth-child(odd) div.modal1970souris::before {
+  border-color: transparent #C24852 transparent transparent;
+}
+.timeline ul li div.modal1970souris{
+  background: #C24852;
+}
+
+/*-----------------------------------Modal 1971----------------------------------------------*/
+.modal19714004 {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal_content_4004_1971 {
+  background-color: brown;
+  margin: auto;
+  padding: 20px;
+  /*border: 1px solid #888;*/
+  width: 90%;
+}
+
+/* The Close Button */
+.close40041971 {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close40041971:hover,
+.close40041971:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+/*------------*/
+.timeline ul li:nth-child(even) div.modal19714004::before {
+  border-color: transparent transparent transparent #C24852;
+}
+.timeline ul li div.modal19714004{
+  background: #C24852;
+}
+
+/*-----------------------------------Modal 1972----------------------------------------------*/
+.modal1972mess {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal_content_mess_1972 {
+  background-color: brown;
+  margin: auto;
+  padding: 20px;
+  /*border: 1px solid #888;*/
+  width: 90%;
+}
+
+/* The Close Button */
+.closemess1972 {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.closemess1972:hover,
+.closemess1972:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+/*------------*/
+.timeline ul li:nth-child(odd) div.modal1972mess::before {
+  border-color: transparent #C24852 transparent transparent;
+}
+.timeline ul li div.modal1972mess{
+  background: #C24852;
+}
+
+/*-----------------------------------Modal 1973----------------------------------------------*/
+.modal1973micro {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal_content_micro_1973 {
+  background-color: brown;
+  margin: auto;
+  padding: 20px;
+  /*border: 1px solid #888;*/
+  width: 90%;
+}
+
+/* The Close Button */
+.closemicro1973 {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.closemicro1973:hover,
+.closemicro1973:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+/*------------*/
+.timeline ul li:nth-child(even) div.modal1973micro::before {
+  border-color: transparent transparent transparent #C24852;
+}
+.timeline ul li div.modal1973micro{
+  background: #C24852;
+}
+
+/*-----------------------------------Modal 1974 cnil----------------------------------------------*/
+.modal1974cnil {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal_content_cnil_1974 {
+  background-color: brown;
+  margin: auto;
+  padding: 20px;
+  /*border: 1px solid #888;*/
+  width: 90%;
+}
+
+/* The Close Button */
+.closecnil1974 {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.closecnil1974:hover,
+.closecnil1974:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+/*------------*/
+.timeline ul li:nth-child(odd) div.modal1974cnil::before {
+  border-color: transparent #C24852 transparent transparent;
+}
+.timeline ul li div.modal1974cnil{
+  background: #C24852;
+}
+
+/*-----------------------------------Modal 1974 8008----------------------------------------------*/
+.modal19748008 {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal_content_8008_1974 {
+  background-color: brown;
+  margin: auto;
+  padding: 20px;
+  /*border: 1px solid #888;*/
+  width: 90%;
+}
+
+/* The Close Button */
+.close80081974 {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close80081974:hover,
+.close80081974:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+/*------------*/
+.timeline ul li:nth-child(even) div.modal19748008::before {
+  border-color: transparent transparent transparent #C24852;
+}
+.timeline ul li div.modal19748008{
+  background: #C24852;
+}
+
+/*-----------------------------------Modal 1975 risc----------------------------------------------*/
+.modal1975risc {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal_content_risc_1975 {
+  background-color: brown;
+  margin: auto;
+  padding: 20px;
+  /*border: 1px solid #888;*/
+  width: 90%;
+}
+
+/* The Close Button */
+.closerisc1975 {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.closerisc1975:hover,
+.closerisc1975:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+/*------------*/
+.timeline ul li:nth-child(odd) div.modal1975risc::before {
+  border-color: transparent #C24852 transparent transparent;
+}
+.timeline ul li div.modal1975risc{
+  background: #C24852;
+}
+
+/*-----------------------------------Modal 1975 mcsft----------------------------------------------*/
+.modal1975mcsft {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal_content_mcsft_1975 {
+  background-color: brown;
+  margin: auto;
+  padding: 20px;
+  /*border: 1px solid #888;*/
+  width: 90%;
+}
+
+/* The Close Button */
+.closemcsft1975 {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.closemcsft1975:hover,
+.closemcsft1975:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+/*------------*/
+.timeline ul li:nth-child(even) div.modal1975mcsft::before {
+  border-color: transparent transparent transparent #C24852;
+}
+.timeline ul li div.modal1975mcsft{
+  background: #C24852;
+}
+
+/*-----------------------------------Modal 1975 mos----------------------------------------------*/
+.modal1975mos {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal_content_mos_1975 {
+  background-color: brown;
+  margin: auto;
+  padding: 20px;
+  /*border: 1px solid #888;*/
+  width: 90%;
+}
+
+/* The Close Button */
+.closemos1975 {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.closemos1975:hover,
+.closemos1975:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+/*------------*/
+.timeline ul li:nth-child(odd) div.modal1975mos::before {
+  border-color: transparent #C24852 transparent transparent;
+}
+.timeline ul li div.modal1975mos{
+  background: #C24852;
+}
+
+/*-----------------------------------Modal 1976 apple----------------------------------------------*/
+.modal1976apple {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal_content_apple_1976 {
+  background-color: brown;
+  margin: auto;
+  padding: 20px;
+  /*border: 1px solid #888;*/
+  width: 90%;
+}
+
+/* The Close Button */
+.closeapple1976 {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.closeapple1976:hover,
+.closeapple1976:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+/*------------*/
+.timeline ul li:nth-child(even) div.modal1976apple::before {
+  border-color: transparent transparent transparent #C24852;
+}
+.timeline ul li div.modal1976apple{
+  background: #C24852;
+}
+
+/*-----------------------------------Modal 1977 apple----------------------------------------------*/
+.modal1977apple {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal_content_apple_1977 {
+  background-color: brown;
+  margin: auto;
+  padding: 20px;
+  /*border: 1px solid #888;*/
+  width: 90%;
+}
+
+/* The Close Button */
+.closeapple1977 {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.closeapple1977:hover,
+.closeapple1977:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+/*------------*/
+.timeline ul li:nth-child(odd) div.modal1977apple::before {
+  border-color: transparent #C24852 transparent transparent;
+}
+.timeline ul li div.modal1977apple{
+  background: #C24852;
+}
+
+/*-----------------------------------Modal 1978 apple----------------------------------------------*/
+.modal1978apple {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal_content_apple_1978 {
+  background-color: brown;
+  margin: auto;
+  padding: 20px;
+  /*border: 1px solid #888;*/
+  width: 90%;
+}
+
+/* The Close Button */
+.closeapple1978 {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.closeapple1978:hover,
+.closeapple1978:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+/*------------*/
+.timeline ul li:nth-child(even) div.modal1978apple::before {
+  border-color: transparent transparent transparent #C24852;
+}
+.timeline ul li div.modal1978apple{
+  background: #C24852;
+}
+
+/*-----------------------------------Modal 1978 revue----------------------------------------------*/
+.modal1978revue {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal_content_revue_1978 {
+  background-color: brown;
+  margin: auto;
+  padding: 20px;
+  /*border: 1px solid #888;*/
+  width: 90%;
+}
+
+/* The Close Button */
+.closerevue1978 {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.closerevue1978:hover,
+.closerevue1978:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+/*------------*/
+.timeline ul li:nth-child(odd) div.modal1978revue::before {
+  border-color: transparent #C24852 transparent transparent;
+}
+.timeline ul li div.modal1978revue{
+  background: #C24852;
+}
+
+/*-----------------------------------Modal 1979 visi----------------------------------------------*/
+.modal1979visi {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal_content_visi_1979 {
+  background-color: brown;
+  margin: auto;
+  padding: 20px;
+  /*border: 1px solid #888;*/
+  width: 90%;
+}
+
+/* The Close Button */
+.closevisi1979 {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.closevisi1979:hover,
+.closevisi1979:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+/*------------*/
+.timeline ul li:nth-child(even) div.modal1979visi::before {
+  border-color: transparent transparent transparent #C24852;
+}
+.timeline ul li div.modal1979visi{
+  background: #C24852;
+}
+
+/*-----------------------------------Modal 1979 trs----------------------------------------------*/
+.modal1979trs {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal_content_trs_1979 {
+  background-color: brown;
+  margin: auto;
+  padding: 20px;
+  /*border: 1px solid #888;*/
+  width: 90%;
+}
+
+/* The Close Button */
+.closetrs1979 {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.closetrs1979:hover,
+.closetrs1979:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+/*------------*/
+.timeline ul li:nth-child(odd) div.modal1979trs::before {
+  border-color: transparent #C24852 transparent transparent;
+}
+.timeline ul li div.modal1979trs{
+  background: #C24852;
+}
+
+/*-----------------------------------Modal 1979 compuserve----------------------------------------------*/
+.modal1979compuserve {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal_content_compuserve_1979 {
+  background-color: brown;
+  margin: auto;
+  padding: 20px;
+  /*border: 1px solid #888;*/
+  width: 90%;
+}
+
+/* The Close Button */
+.closecompuserve1979 {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.closecompuserve1979:hover,
+.closecompuserve1979:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+/*------------*/
+.timeline ul li:nth-child(even) div.modal1979compuserve::before {
+  border-color: transparent transparent transparent #C24852;
+}
+.timeline ul li div.modal1979compuserve{
+  background: #C24852;
+}
+
+/*-----------------------------------Modal 1980 fril----------------------------------------------*/
+.modal1980fril {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal_content_fril_1980 {
+  background-color: brown;
+  margin: auto;
+  padding: 20px;
+  /*border: 1px solid #888;*/
+  width: 90%;
+}
+
+/* The Close Button */
+.closefril1980 {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.closefril1980:hover,
+.closefril1980:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+/*------------*/
+.timeline ul li:nth-child(odd) div.modal1980fril::before {
+  border-color: transparent #C24852 transparent transparent;
+}
+.timeline ul li div.modal1980fril{
+  background: #C24852;
+}
+
+/*-----------------------------------Modal 1980 cd----------------------------------------------*/
+.modal1980cd {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal_content_cd_1980 {
+  background-color: brown;
+  margin: auto;
+  padding: 20px;
+  /*border: 1px solid #888;*/
+  width: 90%;
+}
+
+/* The Close Button */
+.closecd1980 {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.closecd1980:hover,
+.closecd1980:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+/*------------*/
+.timeline ul li:nth-child(even) div.modal1980cd::before {
+  border-color: transparent transparent transparent #C24852;
+}
+.timeline ul li div.modal1980cd{
+  background: #C24852;
+}
+
+/*-----------------------------------Modal 1981 disquette----------------------------------------------*/
+.modal1981disquette {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal_content_disquette_1981 {
+  background-color: brown;
+  margin: auto;
+  padding: 20px;
+  /*border: 1px solid #888;*/
+  width: 90%;
+}
+
+/* The Close Button */
+.closedisquette1981 {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.closedisquette1981:hover,
+.closedisquette1981:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+/*------------*/
+.timeline ul li:nth-child(odd) div.modal1981disquette::before {
+  border-color: transparent #C24852 transparent transparent;
+}
+.timeline ul li div.modal1981disquette{
+  background: #C24852;
+}
+
+/*-----------------------------------Modal 1982 commodore----------------------------------------------*/
+.modal1982commodore {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal_content_commodore_1982 {
+  background-color: brown;
+  margin: auto;
+  padding: 20px;
+  /*border: 1px solid #888;*/
+  width: 90%;
+}
+
+/* The Close Button */
+.closecommodore1982 {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.closecommodore1982:hover,
+.closecommodore1982:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+/*------------*/
+.timeline ul li:nth-child(even) div.modal1982commodore::before {
+  border-color: transparent transparent transparent #C24852;
+}
+.timeline ul li div.modal1982commodore{
+  background: #C24852;
+}
+
+/*-----------------------------------Modal 1982 dos----------------------------------------------*/
+.modal1982dos {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal_content_dos_1982 {
+  background-color: brown;
+  margin: auto;
+  padding: 20px;
+  /*border: 1px solid #888;*/
+  width: 90%;
+}
+
+/* The Close Button */
+.closedos1982 {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.closedos1982:hover,
+.closedos1982:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+/*------------*/
+.timeline ul li:nth-child(odd) div.modal1982dos::before {
+  border-color: transparent #C24852 transparent transparent;
+}
+.timeline ul li div.modal1982dos{
+  background: #C24852;
+}
+
+/*-----------------------------------Modal 1983 cpp----------------------------------------------*/
+.modal1983cpp {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal_content_cpp_1983 {
+  background-color: brown;
+  margin: auto;
+  padding: 20px;
+  /*border: 1px solid #888;*/
+  width: 90%;
+}
+
+/* The Close Button */
+.closecpp1983 {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.closecpp1983:hover,
+.closecpp1983:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+/*------------*/
+.timeline ul li:nth-child(even) div.modal1983cpp::before {
+  border-color: transparent transparent transparent #C24852;
+}
+.timeline ul li div.modal1983cpp{
+  background: #C24852;
+}
