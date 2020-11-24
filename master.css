@@ -1,3 +1,51 @@
+/*----------------------Menu-------------*/
+.mobile-container {
+  max-width: 480px;
+  margin: auto;
+  background-color: #FFF;
+  color: white;
+  border-radius: 10px;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #456990;
+  position: relative;
+}
+
+.topnav #myLinks {
+  display: none;
+}
+
+.topnav a {
+  color: white;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  display: block;
+}
+
+.topnav a.icon {
+  background: #C24852;
+  display: block;
+  /*position: absolute;*/
+  right: 0;
+  top: 0;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.active {
+  background-color: #F45B69;
+  color: white;
+}
+/*------------------------------------------------------------------*/
+
+
+
 .timeline ul {
   background: #456990;
   padding: 50px 0;
