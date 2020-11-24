@@ -1,5 +1,54 @@
+/* --------------------------Header----------------------------------------------------- */
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;700&display=swap");
+.frise-header {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 80px;
+    position: relative;
+    margin-top: 5%;
+}
+.frise-header__title {
+    color: #fff;
+    font-size: 46px;
+    font-family: Roboto;
+    font-weight: normal;
+    margin: 0;
+}
+.frise-header__subtitle {
+    color: #fff;
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    letter-spacing: 5px;
+    margin: 10px 0 0 0;
+    font-weight: normal;
+}
+/* --------------------------Body----------------------------------------------------- */
+
+Body {
+      display: flex;
+      margin: 0 auto;
+      flex-wrap: wrap;
+      flex-direction: column;
+      max-width: 700px;
+      position: relative;
+      background : darkslategrey;
+}
+/* --------------------------images----------------------------------------------------- */
+
+.modal_img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  padding:10px 10px 10px 10px;
+  padding:10px 10px 10px 10px;
+}
+
+img{
+  width: 75%;
+}
+
+/* --------------------------timeline----------------------------------------------------- */
 .timeline ul {
-  background: #456990;
   padding: 50px 0;
 }
 
@@ -119,9 +168,4 @@ time {
     border-width: 8px 16px 8px 0;
     border-color: transparent #F45B69 transparent transparent;
   }
-}
-
-
-img{
-  width: 350px;
 }
