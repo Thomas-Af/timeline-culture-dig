@@ -380,3 +380,336 @@ window.onclick = function(event) {
     modal1983cpp.style.display = "none";
   }
 }
+
+/*------------------------------Modal 1984 mac------------------------*/
+var modal1984mac = document.getElementById("modal_1984_mac");
+var btn1984mac = document.getElementById("btn_modal_mac_1984");
+var span1984mac = document.getElementsByClassName("closemac1984")[0];
+btn1984mac.onclick = function() {
+  modal1984mac.style.display = "block";
+}
+span1984mac.onclick = function() {
+  modal1984mac.style.display = "none";
+}
+window.onclick = function(event) {
+  if (event.target == modal1984mac) {
+    modal1984mac.style.display = "none";
+  }
+}
+
+/*------------------------------Modal 1985 nomdom------------------------*/
+var modal1985nomdom = document.getElementById("modal_1985_nomdom");
+var btn1985nomdom = document.getElementById("btn_modal_nomdom_1985");
+var span1985nomdom = document.getElementsByClassName("closenomdom1985")[0];
+btn1985nomdom.onclick = function() {
+  modal1985nomdom.style.display = "block";
+}
+span1985nomdom.onclick = function() {
+  modal1985nomdom.style.display = "none";
+}
+window.onclick = function(event) {
+  if (event.target == modal1985nomdom) {
+    modal1985nomdom.style.display = "none";
+  }
+}
+/*------------------------------Modal 1985 windows1------------------------*/
+var modal1985windows1 = document.getElementById("modal_1985_windows1");
+var btn1985windows1 = document.getElementById("btn_modal_windows1_1985");
+var span1985windows1 = document.getElementsByClassName("closewindows11985")[0];
+btn1985windows1.onclick = function() {
+  modal1985windows1.style.display = "block";
+}
+span1985windows1.onclick = function() {
+  modal1985windows1.style.display = "none";
+}
+window.onclick = function(event) {
+  if (event.target == modal1985windows1) {
+    modal1985windows1.style.display = "none";
+  }
+}
+
+/*------------------------------Modal 1986 risc------------------------*/
+var modal1986risc = document.getElementById("modal_1986_risc");
+var btn1986risc = document.getElementById("btn_modal_risc_1986");
+var span1986risc = document.getElementsByClassName("closerisc1986")[0];
+btn1986risc.onclick = function() {
+  modal1986risc.style.display = "block";
+}
+span1986risc.onclick = function() {
+  modal1986risc.style.display = "none";
+}
+window.onclick = function(event) {
+  if (event.target == modal1986risc) {
+    modal1986risc.style.display = "none";
+  }
+}
+/*------------------------------Modal 1987 windows2------------------------*/
+var modal1987windows2 = document.getElementById("modal_1987_windows2");
+var btn1987windows2 = document.getElementById("btn_modal_windows2_1987");
+var span1987windows2 = document.getElementsByClassName("closewindows21987")[0];
+btn1987windows2.onclick = function() {
+  modal1987windows2.style.display = "block";
+}
+span1987windows2.onclick = function() {
+  modal1987windows2.style.display = "none";
+}
+window.onclick = function(event) {
+  if (event.target == modal1987windows2) {
+    modal1987windows2.style.display = "none";
+  }
+}
+
+/*------------------------------Modal 1988 as400------------------------*/
+var modal1988as400 = document.getElementById("modal_1988_as400");
+var btn1988as400 = document.getElementById("btn_modal_as400_1988");
+var span1988as400 = document.getElementsByClassName("closeas4001988")[0];
+btn1988as400.onclick = function() {
+  modal1988as400.style.display = "block";
+}
+span1988as400.onclick = function() {
+  modal1988as400.style.display = "none";
+}
+window.onclick = function(event) {
+  if (event.target == modal1988as400) {
+    modal1988as400.style.display = "none";
+  }
+}
+
+/*------------------------------Modal 1989 nextstep------------------------*/
+var modal1989nextstep = document.getElementById("modal_1989_nextstep");
+var btn1989nextstep = document.getElementById("btn_modal_nextstep_1989");
+var span1989nextstep = document.getElementsByClassName("closenextstep1989")[0];
+btn1989nextstep.onclick = function() {
+  modal1989nextstep.style.display = "block";
+}
+span1989nextstep.onclick = function() {
+  modal1989nextstep.style.display = "none";
+}
+window.onclick = function(event) {
+  if (event.target == modal1989nextstep) {
+    modal1989nextstep.style.display = "none";
+  }
+}
+
+/*------------------------------Modal 1989 www------------------------*/
+var modal1989www = document.getElementById("modal_1989_www");
+var btn1989www = document.getElementById("btn_modal_www_1989");
+var span1989www = document.getElementsByClassName("closewww1989")[0];
+btn1989www.onclick = function() {
+  modal1989www.style.display = "block";
+}
+span1989www.onclick = function() {
+  modal1989www.style.display = "none";
+}
+window.onclick = function(event) {
+  if (event.target == modal1989www) {
+    modal1989www.style.display = "none";
+  }
+}
+
+/*------------------------------Modal 1990 beos------------------------*/
+var modal1990beos = document.getElementById("modal_1990_beos");
+var btn1990beos = document.getElementById("btn_modal_beos_1990");
+var span1990beos = document.getElementsByClassName("closebeos1990")[0];
+btn1990beos.onclick = function() {
+  modal1990beos.style.display = "block";
+}
+span1990beos.onclick = function() {
+  modal1990beos.style.display = "none";
+}
+window.onclick = function(event) {
+  if (event.target == modal1990beos) {
+    modal1990beos.style.display = "none";
+  }
+}
+
+/*------------------------------Modal 1990 tcp------------------------*/
+var modal1990tcp = document.getElementById("modal_1990_tcp");
+var btn1990tcp = document.getElementById("btn_modal_tcp_1990");
+var span1990tcp = document.getElementsByClassName("closetcp1990")[0];
+btn1990tcp.onclick = function() {
+  modal1990tcp.style.display = "block";
+}
+span1990tcp.onclick = function() {
+  modal1990tcp.style.display = "none";
+}
+window.onclick = function(event) {
+  if (event.target == modal1990tcp) {
+    modal1990tcp.style.display = "none";
+  }
+}
+
+/*------------------------------Modal 1991 linux001------------------------*/
+var modal1991linux001 = document.getElementById("modal_1991_linux001");
+var btn1991linux001 = document.getElementById("btn_modal_linux001_1991");
+var span1991linux001 = document.getElementsByClassName("closelinux0011991")[0];
+btn1991linux001.onclick = function() {
+  modal1991linux001.style.display = "block";
+}
+span1991linux001.onclick = function() {
+  modal1991linux001.style.display = "none";
+}
+window.onclick = function(event) {
+  if (event.target == modal1991linux001) {
+    modal1991linux001.style.display = "none";
+  }
+}
+
+/*------------------------------Modal 1991 apples7------------------------*/
+var modal1991apples7 = document.getElementById("modal_1991_apples7");
+var btn1991apples7 = document.getElementById("btn_modal_apples7_1991");
+var span1991apples7 = document.getElementsByClassName("closeapples71991")[0];
+btn1991apples7.onclick = function() {
+  modal1991apples7.style.display = "block";
+}
+span1991apples7.onclick = function() {
+  modal1991apples7.style.display = "none";
+}
+window.onclick = function(event) {
+  if (event.target == modal1991apples7) {
+    modal1991apples7.style.display = "none";
+  }
+}
+
+/*------------------------------Modal 1992 windows3------------------------*/
+var modal1992windows3 = document.getElementById("modal_1992_windows3");
+var btn1992windows3 = document.getElementById("btn_modal_windows3_1992");
+var span1992windows3 = document.getElementsByClassName("closewindows31992")[0];
+btn1992windows3.onclick = function() {
+  modal1992windows3.style.display = "block";
+}
+span1992windows3.onclick = function() {
+  modal1992windows3.style.display = "none";
+}
+window.onclick = function(event) {
+  if (event.target == modal1992windows3) {
+    modal1992windows3.style.display = "none";
+  }
+}
+
+/*------------------------------Modal 1993 pentium------------------------*/
+var modal1993pentium = document.getElementById("modal_1993_pentium");
+var btn1993pentium = document.getElementById("btn_modal_pentium_1993");
+var span1993pentium = document.getElementsByClassName("closepentium1993")[0];
+btn1993pentium.onclick = function() {
+  modal1993pentium.style.display = "block";
+}
+span1993pentium.onclick = function() {
+  modal1993pentium.style.display = "none";
+}
+window.onclick = function(event) {
+  if (event.target == modal1993pentium) {
+    modal1993pentium.style.display = "none";
+  }
+}
+
+/*------------------------------Modal 1993 windowsnt------------------------*/
+var modal1993windowsnt = document.getElementById("modal_1993_windowsnt");
+var btn1993windowsnt = document.getElementById("btn_modal_windowsnt_1993");
+var span1993windowsnt = document.getElementsByClassName("closewindowsnt1993")[0];
+btn1993windowsnt.onclick = function() {
+  modal1993windowsnt.style.display = "block";
+}
+span1993windowsnt.onclick = function() {
+  modal1993windowsnt.style.display = "none";
+}
+window.onclick = function(event) {
+  if (event.target == modal1993windowsnt) {
+    modal1993windowsnt.style.display = "none";
+  }
+}
+
+/*------------------------------Modal 1993 mosaic------------------------*/
+var modal1993mosaic = document.getElementById("modal_1993_mosaic");
+var btn1993mosaic = document.getElementById("btn_modal_mosaic_1993");
+var span1993mosaic = document.getElementsByClassName("closemosaic1993")[0];
+btn1993mosaic.onclick = function() {
+  modal1993mosaic.style.display = "block";
+}
+span1993mosaic.onclick = function() {
+  modal1993mosaic.style.display = "none";
+}
+window.onclick = function(event) {
+  if (event.target == modal1993mosaic) {
+    modal1993mosaic.style.display = "none";
+  }
+}
+
+/*------------------------------Modal 1994 sex------------------------*/
+var modal1994sex = document.getElementById("modal_1994_sex");
+var btn1994sex = document.getElementById("btn_modal_sex_1994");
+var span1994sex = document.getElementsByClassName("closesex1994")[0];
+btn1994sex.onclick = function() {
+  modal1994sex.style.display = "block";
+}
+span1994sex.onclick = function() {
+  modal1994sex.style.display = "none";
+}
+window.onclick = function(event) {
+  if (event.target == modal1994sex) {
+    modal1994sex.style.display = "none";
+  }
+}
+
+/*------------------------------Modal 1994 powermac------------------------*/
+var modal1994powermac = document.getElementById("modal_1994_powermac");
+var btn1994powermac = document.getElementById("btn_modal_powermac_1994");
+var span1994powermac = document.getElementsByClassName("closepowermac1994")[0];
+btn1994powermac.onclick = function() {
+  modal1994powermac.style.display = "block";
+}
+span1994powermac.onclick = function() {
+  modal1994powermac.style.display = "none";
+}
+window.onclick = function(event) {
+  if (event.target == modal1994powermac) {
+    modal1994powermac.style.display = "none";
+  }
+}
+
+/*------------------------------Modal 1994 netscape------------------------*/
+var modal1994netscape = document.getElementById("modal_1994_netscape");
+var btn1994netscape = document.getElementById("btn_modal_netscape_1994");
+var span1994netscape = document.getElementsByClassName("closenetscape1994")[0];
+btn1994netscape.onclick = function() {
+  modal1994netscape.style.display = "block";
+}
+span1994netscape.onclick = function() {
+  modal1994netscape.style.display = "none";
+}
+window.onclick = function(event) {
+  if (event.target == modal1994netscape) {
+    modal1994netscape.style.display = "none";
+  }
+}
+/*------------------------------Modal 1995 amazon------------------------*/
+var modal1995amazon = document.getElementById("modal_1995_amazon");
+var btn1995amazon = document.getElementById("btn_modal_amazon_1995");
+var span1995amazon = document.getElementsByClassName("closeamazon1995")[0];
+btn1995amazon.onclick = function() {
+  modal1995amazon.style.display = "block";
+}
+span1995amazon.onclick = function() {
+  modal1995amazon.style.display = "none";
+}
+window.onclick = function(event) {
+  if (event.target == modal1995amazon) {
+    modal1995amazon.style.display = "none";
+  }
+}
+
+/*------------------------------Modal 1995 iexplorer------------------------*/
+var modal1995iexplorer = document.getElementById("modal_1995_iexplorer");
+var btn1995iexplorer = document.getElementById("btn_modal_iexplorer_1995");
+var span1995iexplorer = document.getElementsByClassName("closeiexplorer1995")[0];
+btn1995iexplorer.onclick = function() {
+  modal1995iexplorer.style.display = "block";
+}
+span1995iexplorer.onclick = function() {
+  modal1995iexplorer.style.display = "none";
+}
+window.onclick = function(event) {
+  if (event.target == modal1995iexplorern) {
+    modal1995iexplorer.style.display = "none";
+  }
+}
