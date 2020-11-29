@@ -868,3 +868,144 @@ window.onclick = function(event) {
     modal2001wiki.style.display = "none";
   }
 }
+
+/*------------------------------Modal 2002 tor------------------------*/
+var modal2002tor = document.getElementById("modal_2002_tor");
+var btn2002tor = document.getElementById("btn_modal_tor_2002");
+var span2002tor = document.getElementsByClassName("closetor2002")[0];
+btn2002tor.onclick = function() {
+  modal2002tor.style.display = "block";
+}
+span2002tor.onclick = function() {
+  modal2002tor.style.display = "none";
+}
+window.onclick = function(event) {
+  if (event.target == modal2002tor) {
+    modal2002tor.style.display = "none";
+  }
+}
+
+/*------------------------------Modal 2003 powermac------------------------*/
+var modal2003powermac = document.getElementById("modal_2003_powermac");
+var btn2003powermac = document.getElementById("btn_modal_powermac_2003");
+var span2003powermac = document.getElementsByClassName("closepowermac2003")[0];
+btn2003powermac.onclick = function() {
+  modal2003powermac.style.display = "block";
+}
+span2003powermac.onclick = function() {
+  modal2003powermac.style.display = "none";
+}
+window.onclick = function(event) {
+  if (event.target == modal2003powermac) {
+    modal2003powermac.style.display = "none";
+  }
+}
+
+/*------------------------------Modal 2003 linux------------------------*/
+var modal2003linux = document.getElementById("modal_2003_linux");
+var btn2003linux = document.getElementById("btn_modal_linux_2003");
+var span2003linux = document.getElementsByClassName("closelinux2003")[0];
+btn2003linux.onclick = function() {
+  modal2003linux.style.display = "block";
+}
+span2003linux.onclick = function() {
+  modal2003linux.style.display = "none";
+}
+window.onclick = function(event) {
+  if (event.target == modal2003linux) {
+    modal2003linux.style.display = "none";
+  }
+}
+
+/*------------------------------Modal 2004 fb------------------------*/
+var modal2004fb = document.getElementById("modal_2004_fb");
+var btn2004fb = document.getElementById("btn_modal_fb_2004");
+var span2004fb = document.getElementsByClassName("closefb2004")[0];
+btn2004fb.onclick = function() {
+  modal2004fb.style.display = "block";
+}
+span2004fb.onclick = function() {
+  modal2004fb.style.display = "none";
+}
+window.onclick = function(event) {
+  if (event.target == modal2004fb) {
+    modal2004fb.style.display = "none";
+  }
+}
+
+/*------------------------------Modal 2004 linux26------------------------*/
+var modal2004linux26 = document.getElementById("modal_2004_linux26");
+var btn2004linux26 = document.getElementById("btn_modal_linux26_2004");
+var span2004linux26 = document.getElementsByClassName("closelinux262004")[0];
+btn2004linux26.onclick = function() {
+  modal2004linux26.style.display = "block";
+}
+span2004linux26.onclick = function() {
+  modal2004linux26.style.display = "none";
+}
+window.onclick = function(event) {
+  if (event.target == modal2004linux26) {
+    modal2004linux26.style.display = "none";
+  }
+}
+
+/*------------------------------Modal 2005 yt------------------------*/
+var modal2005yt = document.getElementById("modal_2005_yt");
+var btn2005yt = document.getElementById("btn_modal_yt_2005");
+var span2005yt = document.getElementsByClassName("closeyt2005")[0];
+btn2005yt.onclick = function() {
+  modal2005yt.style.display = "block";
+}
+span2005yt.onclick = function() {
+  modal2005yt.style.display = "none";
+}
+window.onclick = function(event) {
+  if (event.target == modal2005yt) {
+    modal2005yt.style.display = "none";
+  }
+}
+/*------------------------------Modal 2006 iexplorer7------------------------*/
+var modal2006iexplorer7 = document.getElementById("modal_2006_iexplorer7");
+var btn2006iexplorer7 = document.getElementById("btn_modal_iexplorer7_2006");
+var span2006iexplorer7 = document.getElementsByClassName("closeiexplorer72006")[0];
+btn2006iexplorer7.onclick = function() {
+  modal2006iexplorer7.style.display = "block";
+}
+span2006iexplorer7.onclick = function() {
+  modal2006iexplorer7.style.display = "none";
+}
+window.onclick = function(event) {
+  if (event.target == modal2006iexplorer7) {
+    modal2006iexplorer7.style.display = "none";
+  }
+}
+/*------------------------------Modal 2006 firefox------------------------*/
+var modal2006firefox = document.getElementById("modal_2006_firefox");
+var btn2006firefox = document.getElementById("btn_modal_firefox_2006");
+var span2006firefox = document.getElementsByClassName("closefirefox2006")[0];
+btn2006firefox.onclick = function() {
+  modal2006firefox.style.display = "block";
+}
+span2006firefox.onclick = function() {
+  modal2006firefox.style.display = "none";
+}
+window.onclick = function(event) {
+  if (event.target == modal2006firefox) {
+    modal2006firefox.style.display = "none";
+  }
+}
+/*------------------------------Modal 2006 opendocument------------------------*/
+var modal2006opendocument = document.getElementById("modal_2006_opendocument");
+var btn2006opendocument = document.getElementById("btn_modal_opendocument_2006");
+var span2006opendocument = document.getElementsByClassName("closeopendocument2006")[0];
+btn2006opendocument.onclick = function() {
+  modal2006opendocument.style.display = "block";
+}
+span2006opendocument.onclick = function() {
+  modal2006opendocument.style.display = "none";
+}
+window.onclick = function(event) {
+  if (event.target == modal2006opendocument) {
+    modal2006opendocument.style.display = "none";
+  }
+}
