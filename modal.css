@@ -2030,3 +2030,451 @@
 .timeline ul li div.modal1995iexplorer{
   background: #C24852;
 }
+
+/*-----------------------------------Modal 1996 microsoft----------------------------------------------*/
+.modal1996microsoft {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal_content_microsoft_1996 {
+  background-color: brown;
+  margin: auto;
+  padding: 20px;
+  /*border: 1px solid #888;*/
+  width: 90%;
+}
+
+/* The Close Button */
+.closemicrosoft1996 {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.closemicrosoft1996:hover,
+.closemicrosoft1996:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+/*------------*/
+.timeline ul li:nth-child(even) div.modal1996microsoft::before {
+  border-color: transparent transparent transparent #C24852;
+}
+.timeline ul li div.modal1996microsoft{
+  background: #C24852;
+}
+
+/*-----------------------------------Modal 1996 linux----------------------------------------------*/
+.modal1996linux {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal_content_linux_1996 {
+  background-color: brown;
+  margin: auto;
+  padding: 20px;
+  /*border: 1px solid #888;*/
+  width: 90%;
+}
+
+/* The Close Button */
+.closelinux1996 {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.closelinux1996:hover,
+.closelinux1996:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+/*------------*/
+.timeline ul li:nth-child(odd) div.modal1996linux::before {
+  border-color: transparent #C24852 transparent transparent;
+}
+.timeline ul li div.modal1996linux{
+  background: #C24852;
+}
+
+/*-----------------------------------Modal 1997 macos8----------------------------------------------*/
+.modal1997macos8 {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal_content_macos8_1997 {
+  background-color: brown;
+  margin: auto;
+  padding: 20px;
+  /*border: 1px solid #888;*/
+  width: 90%;
+}
+
+/* The Close Button */
+.closemacos81997 {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.closemacos81997:hover,
+.closemacos81997:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+/*------------*/
+.timeline ul li:nth-child(even) div.modal1997macos8::before {
+  border-color: transparent transparent transparent #C24852;
+}
+.timeline ul li div.modal1997macos8{
+  background: #C24852;
+}
+
+/*-----------------------------------Modal 1998 google----------------------------------------------*/
+.modal1998google {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal_content_google_1998 {
+  background-color: brown;
+  margin: auto;
+  padding: 20px;
+  /*border: 1px solid #888;*/
+  width: 90%;
+}
+
+/* The Close Button */
+.closegoogle1998 {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.closegoogle1998:hover,
+.closegoogle1998:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+/*------------*/
+.timeline ul li:nth-child(odd) div.modal1998google::before {
+  border-color: transparent #C24852 transparent transparent;
+}
+.timeline ul li div.modal1998google{
+  background: #C24852;
+}
+/*-----------------------------------Modal 1998 apple----------------------------------------------*/
+.modal1998apple {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal_content_apple_1998 {
+  background-color: brown;
+  margin: auto;
+  padding: 20px;
+  /*border: 1px solid #888;*/
+  width: 90%;
+}
+
+/* The Close Button */
+.closeapple1998 {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.closeapple1998:hover,
+.closeapple1998:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+/*------------*/
+.timeline ul li:nth-child(even) div.modal1998apple::before {
+  border-color: transparent transparent transparent #C24852;
+}
+.timeline ul li div.modal1998apple{
+  background: #C24852;
+}
+/*-----------------------------------Modal 1998 windows98----------------------------------------------*/
+.modal1998windows98 {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal_content_windows98_1998 {
+  background-color: brown;
+  margin: auto;
+  padding: 20px;
+  /*border: 1px solid #888;*/
+  width: 90%;
+}
+
+/* The Close Button */
+.closewindows981998 {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.closewindows981998:hover,
+.closewindows981998:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+/*------------*/
+.timeline ul li:nth-child(odd) div.modal1998windows98::before {
+  border-color: transparent #C24852 transparent transparent;
+}
+.timeline ul li div.modal1998windows98{
+  background: #C24852;
+}
+
+/*-----------------------------------Modal 1999 linux22----------------------------------------------*/
+.modal1999linux22 {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal_content_linux22_1999 {
+  background-color: brown;
+  margin: auto;
+  padding: 20px;
+  /*border: 1px solid #888;*/
+  width: 90%;
+}
+
+/* The Close Button */
+.closelinux221999 {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.closelinux221999:hover,
+.closelinux221999:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+/*------------*/
+.timeline ul li:nth-child(even) div.modal1999linux22::before {
+  border-color: transparent transparent transparent #C24852;
+}
+.timeline ul li div.modal1999linux22{
+  background: #C24852;
+}
+
+/*-----------------------------------Modal 1999 macos9----------------------------------------------*/
+.modal1999macos9 {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal_content_macos9_1999 {
+  background-color: brown;
+  margin: auto;
+  padding: 20px;
+  /*border: 1px solid #888;*/
+  width: 90%;
+}
+
+/* The Close Button */
+.closemacos91999 {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.closemacos91999:hover,
+.closemacos91999:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+/*------------*/
+.timeline ul li:nth-child(odd) div.modal1999macos9::before {
+  border-color: transparent #C24852 transparent transparent;
+}
+.timeline ul li div.modal1999macos9{
+  background: #C24852;
+}
+
+/*-----------------------------------Modal 2000 microsoft----------------------------------------------*/
+.modal2000microsoft {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal_content_microsoft_2000 {
+  background-color: brown;
+  margin: auto;
+  padding: 20px;
+  /*border: 1px solid #888;*/
+  width: 90%;
+}
+
+/* The Close Button */
+.closemicrosoft2000 {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.closemicrosoft2000:hover,
+.closemicrosoft2000:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+/*------------*/
+.timeline ul li:nth-child(even) div.modal2000microsoft::before {
+  border-color: transparent transparent transparent #C24852;
+}
+.timeline ul li div.modal2000microsoft{
+  background: #C24852;
+}
+
+/*-----------------------------------Modal 2001 wiki----------------------------------------------*/
+.modal2001wiki {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal_content_wiki_2001 {
+  background-color: brown;
+  margin: auto;
+  padding: 20px;
+  /*border: 1px solid #888;*/
+  width: 90%;
+}
+
+/* The Close Button */
+.closewiki2001 {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.closewiki2001:hover,
+.closewiki2001:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+/*------------*/
+.timeline ul li:nth-child(odd) div.modal2001wiki::before {
+  border-color: transparent #C24852 transparent transparent;
+}
+.timeline ul li div.modal2001wiki{
+  background: #C24852;
+}

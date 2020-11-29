@@ -709,7 +709,162 @@ span1995iexplorer.onclick = function() {
   modal1995iexplorer.style.display = "none";
 }
 window.onclick = function(event) {
-  if (event.target == modal1995iexplorern) {
+  if (event.target == modal1995iexplorer) {
     modal1995iexplorer.style.display = "none";
+  }
+}
+
+/*------------------------------Modal 1996 microsoft------------------------*/
+var modal1996microsoft = document.getElementById("modal_1996_microsoft");
+var btn1996microsoft = document.getElementById("btn_modal_microsoft_1996");
+var span1996microsoft = document.getElementsByClassName("closemicrosoft1996")[0];
+btn1996microsoft.onclick = function() {
+  modal1996microsoft.style.display = "block";
+}
+span1996microsoft.onclick = function() {
+  modal1996microsoft.style.display = "none";
+}
+window.onclick = function(event) {
+  if (event.target == modal1996microsoft) {
+    modal1996microsoft.style.display = "none";
+  }
+}
+/*------------------------------Modal 1996 linux------------------------*/
+var modal1996linux = document.getElementById("modal_1996_linux");
+var btn1996linux = document.getElementById("btn_modal_linux_1996");
+var span1996linux = document.getElementsByClassName("closelinux1996")[0];
+btn1996linux.onclick = function() {
+  modal1996linux.style.display = "block";
+}
+span1996linux.onclick = function() {
+  modal1996linux.style.display = "none";
+}
+window.onclick = function(event) {
+  if (event.target == modal1996linux) {
+    modal1996linux.style.display = "none";
+  }
+}
+/*------------------------------Modal 1997 macos8------------------------*/
+var modal1997macos8 = document.getElementById("modal_1997_macos8");
+var btn1997macos8 = document.getElementById("btn_modal_macos8_1997");
+var span1997macos8 = document.getElementsByClassName("closemacos81997")[0];
+btn1997macos8.onclick = function() {
+  modal1997macos8.style.display = "block";
+}
+span1997macos8.onclick = function() {
+  modal1997macos8.style.display = "none";
+}
+window.onclick = function(event) {
+  if (event.target == modal1997macos8) {
+    modal1997macos8.style.display = "none";
+  }
+}
+
+/*------------------------------Modal 1998 google------------------------*/
+var modal1998google = document.getElementById("modal_1998_google");
+var btn1998google = document.getElementById("btn_modal_google_1998");
+var span1998google = document.getElementsByClassName("closegoogle1998")[0];
+btn1998google.onclick = function() {
+  modal1998google.style.display = "block";
+}
+span1998google.onclick = function() {
+  modal1998google.style.display = "none";
+}
+window.onclick = function(event) {
+  if (event.target == modal1998google) {
+    modal1998google.style.display = "none";
+  }
+}
+/*------------------------------Modal 1998 apple------------------------*/
+var modal1998apple = document.getElementById("modal_1998_apple");
+var btn1998apple = document.getElementById("btn_modal_apple_1998");
+var span1998apple = document.getElementsByClassName("closeapple1998")[0];
+btn1998apple.onclick = function() {
+  modal1998apple.style.display = "block";
+}
+span1998apple.onclick = function() {
+  modal1998apple.style.display = "none";
+}
+window.onclick = function(event) {
+  if (event.target == modal1998apple) {
+    modal1998apple.style.display = "none";
+  }
+}
+/*------------------------------Modal 1998 windows98------------------------*/
+var modal1998windows98 = document.getElementById("modal_1998_windows98");
+var btn1998windows98 = document.getElementById("btn_modal_windows98_1998");
+var span1998windows98 = document.getElementsByClassName("closewindows981998")[0];
+btn1998windows98.onclick = function() {
+  modal1998windows98.style.display = "block";
+}
+span1998windows98.onclick = function() {
+  modal1998windows98.style.display = "none";
+}
+window.onclick = function(event) {
+  if (event.target == modal1998windows98) {
+    modal1998windows98.style.display = "none";
+  }
+}
+
+/*------------------------------Modal 1999 linux22------------------------*/
+var modal1999linux22 = document.getElementById("modal_1999_linux22");
+var btn1999linux22 = document.getElementById("btn_modal_linux22_1999");
+var span1999linux22 = document.getElementsByClassName("closelinux221999")[0];
+btn1999linux22.onclick = function() {
+  modal1999linux22.style.display = "block";
+}
+span1999linux22.onclick = function() {
+  modal1999linux22.style.display = "none";
+}
+window.onclick = function(event) {
+  if (event.target == modal1999linux22) {
+    modal1999linux22.style.display = "none";
+  }
+}
+/*------------------------------Modal 1999 macos9------------------------*/
+var modal1999macos9 = document.getElementById("modal_1999_macos9");
+var btn1999macos9 = document.getElementById("btn_modal_macos9_1999");
+var span1999macos9 = document.getElementsByClassName("closemacos91999")[0];
+btn1999macos9.onclick = function() {
+  modal1999macos9.style.display = "block";
+}
+span1999macos9.onclick = function() {
+  modal1999macos9.style.display = "none";
+}
+window.onclick = function(event) {
+  if (event.target == modal1999macos9) {
+    modal1999macos9.style.display = "none";
+  }
+}
+
+/*------------------------------Modal 2000 microsoft------------------------*/
+var modal2000microsoft = document.getElementById("modal_2000_microsoft");
+var btn2000microsoft = document.getElementById("btn_modal_microsoft_2000");
+var span2000microsoft = document.getElementsByClassName("closemicrosoft2000")[0];
+btn2000microsoft.onclick = function() {
+  modal2000microsoft.style.display = "block";
+}
+span2000microsoft.onclick = function() {
+  modal2000microsoft.style.display = "none";
+}
+window.onclick = function(event) {
+  if (event.target == modal2000microsoft) {
+    modal2000microsoft.style.display = "none";
+  }
+}
+
+/*------------------------------Modal 2001 wiki------------------------*/
+var modal2001wiki = document.getElementById("modal_2001_wiki");
+var btn2001wiki = document.getElementById("btn_modal_wiki_2001");
+var span2001wiki = document.getElementsByClassName("closewiki2001")[0];
+btn2001wiki.onclick = function() {
+  modal2001wiki.style.display = "block";
+}
+span2001wiki.onclick = function() {
+  modal2001wiki.style.display = "none";
+}
+window.onclick = function(event) {
+  if (event.target == modal2001wiki) {
+    modal2001wiki.style.display = "none";
   }
 }
