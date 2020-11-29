@@ -14,6 +14,8 @@ window.onclick = function(event) {
   }
 }
 
+//var test = document.getElementById('')
+
 /*------------------------------Modal 1970 pdp------------------------*/
 var modal1970pdp = document.getElementById("modal_1970_pdp");
 var btn1970pdp = document.getElementById("btn_modal_pdp_1970");
