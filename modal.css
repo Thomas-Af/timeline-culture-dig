@@ -2882,3 +2882,947 @@
 .timeline ul li div.modal2006opendocument{
   background: #C24852;
 }
+
+/*-----------------------------------Modal 2007 vista----------------------------------------------*/
+.modal2007vista {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal_content_vista_2007 {
+  background-color: brown;
+  margin: auto;
+  padding: 20px;
+  /*border: 1px solid #888;*/
+  width: 90%;
+}
+
+/* The Close Button */
+.closevista2007 {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.closevista2007:hover,
+.closevista2007:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+/*------------*/
+.timeline ul li:nth-child(odd) div.modal2007vista::before {
+  border-color: transparent #C24852 transparent transparent;
+}
+.timeline ul li div.modal2007vista{
+  background: #C24852;
+}
+
+/*-----------------------------------Modal 2007 office----------------------------------------------*/
+.modal2007office {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal_content_office_2007 {
+  background-color: brown;
+  margin: auto;
+  padding: 20px;
+  /*border: 1px solid #888;*/
+  width: 90%;
+}
+
+/* The Close Button */
+.closeoffice2007 {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.closeoffice2007:hover,
+.closeoffice2007:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+/*------------*/
+.timeline ul li:nth-child(even) div.modal2007office::before {
+  border-color: transparent transparent transparent #C24852;
+}
+.timeline ul li div.modal2007office{
+  background: #C24852;
+}
+
+/*-----------------------------------Modal 2007 macos105----------------------------------------------*/
+.modal2007macos105 {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal_content_macos105_2007 {
+  background-color: brown;
+  margin: auto;
+  padding: 20px;
+  /*border: 1px solid #888;*/
+  width: 90%;
+}
+
+/* The Close Button */
+.closemacos1052007 {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.closemacos1052007:hover,
+.closemacos1052007:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+/*------------*/
+.timeline ul li:nth-child(odd) div.modal2007macos105::before {
+  border-color: transparent #C24852 transparent transparent;
+}
+.timeline ul li div.modal2007macos105{
+  background: #C24852;
+}
+
+/*-----------------------------------Modal 2008 appletv----------------------------------------------*/
+.modal2008appletv {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal_content_appletv_2008 {
+  background-color: brown;
+  margin: auto;
+  padding: 20px;
+  /*border: 1px solid #888;*/
+  width: 90%;
+}
+
+/* The Close Button */
+.closeappletv2008 {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.closeappletv2008:hover,
+.closeappletv2008:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+/*------------*/
+.timeline ul li:nth-child(even) div.modal2008appletv::before {
+  border-color: transparent transparent transparent #C24852;
+}
+.timeline ul li div.modal2008appletv{
+  background: #C24852;
+}
+/*-----------------------------------Modal 2008 firefox3----------------------------------------------*/
+.modal2008firefox3 {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal_content_firefox3_2008 {
+  background-color: brown;
+  margin: auto;
+  padding: 20px;
+  /*border: 1px solid #888;*/
+  width: 90%;
+}
+
+/* The Close Button */
+.closefirefox32008 {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.closefirefox32008:hover,
+.closefirefox32008:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+/*------------*/
+.timeline ul li:nth-child(odd) div.modal2008firefox3::before {
+  border-color: transparent #C24852 transparent transparent;
+}
+.timeline ul li div.modal2008firefox3{
+  background: #C24852;
+}
+
+/*-----------------------------------Modal 2008 openoffice3----------------------------------------------*/
+.modal2008openoffice3 {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal_content_openoffice3_2008 {
+  background-color: brown;
+  margin: auto;
+  padding: 20px;
+  /*border: 1px solid #888;*/
+  width: 90%;
+}
+
+/* The Close Button */
+.closeopenoffice32008 {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.closeopenoffice32008:hover,
+.closeopenoffice32008:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+/*------------*/
+.timeline ul li:nth-child(even) div.modal2008openoffice3::before {
+  border-color: transparent transparent transparent #C24852;
+}
+.timeline ul li div.modal2008openoffice3{
+  background: #C24852;
+}
+
+/*-----------------------------------Modal 2009 bitcoin----------------------------------------------*/
+.modal2009bitcoin {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal_content_bitcoin_2009 {
+  background-color: brown;
+  margin: auto;
+  padding: 20px;
+  /*border: 1px solid #888;*/
+  width: 90%;
+}
+
+/* The Close Button */
+.closebitcoin2009 {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.closebitcoin2009:hover,
+.closebitcoin2009:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+/*------------*/
+.timeline ul li:nth-child(odd) div.modal2009bitcoin::before {
+  border-color: transparent #C24852 transparent transparent;
+}
+.timeline ul li div.modal2009bitcoin{
+  background: #C24852;
+}
+
+/*-----------------------------------Modal 2010 cloud----------------------------------------------*/
+.modal2010cloud {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal_content_cloud_2010 {
+  background-color: brown;
+  margin: auto;
+  padding: 20px;
+  /*border: 1px solid #888;*/
+  width: 90%;
+}
+
+/* The Close Button */
+.closecloud2010 {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.closecloud2010:hover,
+.closecloud2010:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+/*------------*/
+.timeline ul li:nth-child(even) div.modal2010cloud::before {
+  border-color: transparent transparent transparent #C24852;
+}
+.timeline ul li div.modal2010cloud{
+  background: #C24852;
+}
+
+/*-----------------------------------Modal 2011 libreoffice----------------------------------------------*/
+.modal2011libreoffice {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal_content_libreoffice_2011 {
+  background-color: brown;
+  margin: auto;
+  padding: 20px;
+  /*border: 1px solid #888;*/
+  width: 90%;
+}
+
+/* The Close Button */
+.closelibreoffice2011 {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.closelibreoffice2011:hover,
+.closelibreoffice2011:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+/*------------*/
+.timeline ul li:nth-child(odd) div.modal2011libreoffice::before {
+  border-color: transparent #C24852 transparent transparent;
+}
+.timeline ul li div.modal2011libreoffice{
+  background: #C24852;
+}
+
+/*-----------------------------------Modal 2012 windows8----------------------------------------------*/
+.modal2012windows8 {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal_content_windows8_2012 {
+  background-color: brown;
+  margin: auto;
+  padding: 20px;
+  /*border: 1px solid #888;*/
+  width: 90%;
+}
+
+/* The Close Button */
+.closewindows82012 {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.closewindows82012:hover,
+.closewindows82012:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+/*------------*/
+.timeline ul li:nth-child(even) div.modal2012windows8::before {
+  border-color: transparent transparent transparent #C24852;
+}
+.timeline ul li div.modal2012windows8{
+  background: #C24852;
+}
+
+/*-----------------------------------Modal 2013 smartpc----------------------------------------------*/
+.modal2013smartpc {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal_content_smartpc_2013 {
+  background-color: brown;
+  margin: auto;
+  padding: 20px;
+  /*border: 1px solid #888;*/
+  width: 90%;
+}
+
+/* The Close Button */
+.closesmartpc2013 {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.closesmartpc2013:hover,
+.closesmartpc2013:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+/*------------*/
+.timeline ul li:nth-child(odd) div.modal2013smartpc::before {
+  border-color: transparent #C24852 transparent transparent;
+}
+.timeline ul li div.modal2013smartpc{
+  background: #C24852;
+}
+
+/*-----------------------------------Modal 2013 snowden----------------------------------------------*/
+.modal2013snowden {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal_content_snowden_2013 {
+  background-color: brown;
+  margin: auto;
+  padding: 20px;
+  /*border: 1px solid #888;*/
+  width: 90%;
+}
+
+/* The Close Button */
+.closesnowden2013 {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.closesnowden2013:hover,
+.closesnowden2013:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+/*------------*/
+.timeline ul li:nth-child(even) div.modal2013snowden::before {
+  border-color: transparent transparent transparent #C24852;
+}
+.timeline ul li div.modal2013snowden {
+  background: #C24852;
+}
+
+/*-----------------------------------Modal 2014 objetcon----------------------------------------------*/
+.modal2014objetcon {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal_content_objetcon_2014 {
+  background-color: brown;
+  margin: auto;
+  padding: 20px;
+  /*border: 1px solid #888;*/
+  width: 90%;
+}
+
+/* The Close Button */
+.closeobjetcon2014 {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.closeobjetcon2014:hover,
+.closeobjetcon2014:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+/*------------*/
+.timeline ul li:nth-child(odd) div.modal2014objetcon::before {
+  border-color: transparent #C24852 transparent transparent;
+}
+.timeline ul li div.modal2014objetcon{
+  background: #C24852;
+}
+
+/*-----------------------------------Modal 2015 darknet----------------------------------------------*/
+.modal2015darknet {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal_content_darknet_2015 {
+  background-color: brown;
+  margin: auto;
+  padding: 20px;
+  /*border: 1px solid #888;*/
+  width: 90%;
+}
+
+/* The Close Button */
+.closedarknet2015 {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.closedarknet2015:hover,
+.closedarknet2015:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+/*------------*/
+.timeline ul li:nth-child(even) div.modal2015darknet::before {
+  border-color: transparent transparent transparent #C24852;
+}
+.timeline ul li div.modal2015darknet {
+  background: #C24852;
+}
+
+/*-----------------------------------Modal 2016 chrome----------------------------------------------*/
+.modal2016chrome {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal_content_chrome_2016 {
+  background-color: brown;
+  margin: auto;
+  padding: 20px;
+  /*border: 1px solid #888;*/
+  width: 90%;
+}
+
+/* The Close Button */
+.closechrome2016 {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.closechrome2016:hover,
+.closechrome2016:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+/*------------*/
+.timeline ul li:nth-child(odd) div.modal2016chrome::before {
+  border-color: transparent #C24852 transparent transparent;
+}
+.timeline ul li div.modal2016chrome{
+  background: #C24852;
+}
+
+/*-----------------------------------Modal 2016 internetobj----------------------------------------------*/
+.modal2016internetobj {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal_content_internetobj_2016 {
+  background-color: brown;
+  margin: auto;
+  padding: 20px;
+  /*border: 1px solid #888;*/
+  width: 90%;
+}
+
+/* The Close Button */
+.closeinternetobj2016 {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.closeinternetobj2016:hover,
+.closeinternetobj2016:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+/*------------*/
+.timeline ul li:nth-child(even) div.modal2016internetobj::before {
+  border-color: transparent transparent transparent #C24852;
+}
+.timeline ul li div.modal2016internetobj {
+  background: #C24852;
+}
+
+/*-----------------------------------Modal 2017 wannacry----------------------------------------------*/
+.modal2017wannacry {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal_content_wannacry_2017 {
+  background-color: brown;
+  margin: auto;
+  padding: 20px;
+  /*border: 1px solid #888;*/
+  width: 90%;
+}
+
+/* The Close Button */
+.closewannacry2017 {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.closewannacry2017:hover,
+.closewannacry2017:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+/*------------*/
+.timeline ul li:nth-child(odd) div.modal2017wannacry::before {
+  border-color: transparent #C24852 transparent transparent;
+}
+.timeline ul li div.modal2017wannacry{
+  background: #C24852;
+}
+
+/*-----------------------------------Modal 2018 canalytica----------------------------------------------*/
+.modal2018canalytica {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal_content_canalytica_2018 {
+  background-color: brown;
+  margin: auto;
+  padding: 20px;
+  /*border: 1px solid #888;*/
+  width: 90%;
+}
+
+/* The Close Button */
+.closecanalytica2018 {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.closecanalytica2018:hover,
+.closecanalytica2018:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+/*------------*/
+.timeline ul li:nth-child(even) div.modal2018canalytica::before {
+  border-color: transparent transparent transparent #C24852;
+}
+.timeline ul li div.modal2018canalytica {
+  background: #C24852;
+}
+
+/*-----------------------------------Modal 2019 lexar----------------------------------------------*/
+.modal2019lexar {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal_content_lexar_2019 {
+  background-color: brown;
+  margin: auto;
+  padding: 20px;
+  /*border: 1px solid #888;*/
+  width: 90%;
+}
+
+/* The Close Button */
+.closelexar2019 {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.closelexar2019:hover,
+.closelexar2019:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+/*------------*/
+.timeline ul li:nth-child(odd) div.modal2019lexar::before {
+  border-color: transparent #C24852 transparent transparent;
+}
+.timeline ul li div.modal2019lexar{
+  background: #C24852;
+}
+
+/*-----------------------------------Modal 2019 google----------------------------------------------*/
+.modal2019google {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal_content_google_2019 {
+  background-color: brown;
+  margin: auto;
+  padding: 20px;
+  /*border: 1px solid #888;*/
+  width: 90%;
+}
+
+/* The Close Button */
+.closegoogle2019 {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.closegoogle2019:hover,
+.closegoogle2019:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+/*------------*/
+.timeline ul li:nth-child(even) div.modal2019google::before {
+  border-color: transparent transparent transparent #C24852;
+}
+.timeline ul li div.modal2019google {
+  background: #C24852;
+}
+
+/*-----------------------------------Modal 2020 covid----------------------------------------------*/
+.modal2020covid {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal_content_covid_2020 {
+  background-color: brown;
+  margin: auto;
+  padding: 20px;
+  /*border: 1px solid #888;*/
+  width: 90%;
+}
+
+/* The Close Button */
+.closecovid2020 {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.closecovid2020:hover,
+.closecovid2020:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+/*------------*/
+.timeline ul li:nth-child(odd) div.modal2020covid::before {
+  border-color: transparent #C24852 transparent transparent;
+}
+.timeline ul li div.modal2020covid{
+  background: #C24852;
+}

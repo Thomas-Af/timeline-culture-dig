@@ -8,11 +8,13 @@ btn1969amd.onclick = function() {
 span1969amd.onclick = function() {
   modal1969amd.style.display = "none";
 }
-window.onclick = function(event) {
+/*window.onclick = function(event) {
   if (event.target == modal1969amd) {
     modal1969amd.style.display = "none";
   }
-}
+}*/
+
+
 
 //var test = document.getElementById('')
 
@@ -26,11 +28,11 @@ btn1970pdp.onclick = function() {
 span1970pdp.onclick = function() {
   modal1970pdp.style.display = "none";
 }
-window.onclick = function(event) {
+/*window.onclick = function(event) {
   if (event.target == modal1970pdp) {
     modal1970pdp.style.display = "none";
   }
-}
+}*/
 
 /*------------------------------Modal 1970 souris------------------------*/
 var modal1970souris = document.getElementById("modal_1970_souris");
@@ -1007,5 +1009,337 @@ span2006opendocument.onclick = function() {
 window.onclick = function(event) {
   if (event.target == modal2006opendocument) {
     modal2006opendocument.style.display = "none";
+  }
+}
+
+/*------------------------------Modal 2007 vista------------------------*/
+var modal2007vista = document.getElementById("modal_2007_vista");
+var btn2007vista = document.getElementById("btn_modal_vista_2007");
+var span2007vista = document.getElementsByClassName("closevista2007")[0];
+btn2007vista.onclick = function() {
+  modal2007vista.style.display = "block";
+}
+span2007vista.onclick = function() {
+  modal2007vista.style.display = "none";
+}
+window.onclick = function(event) {
+  if (event.target == modal2007vista) {
+    modal2007vista.style.display = "none";
+  }
+}
+/*------------------------------Modal 2007 office------------------------*/
+var modal2007office = document.getElementById("modal_2007_office");
+var btn2007office = document.getElementById("btn_modal_office_2007");
+var span2007office = document.getElementsByClassName("closeoffice2007")[0];
+btn2007office.onclick = function() {
+  modal2007office.style.display = "block";
+}
+span2007office.onclick = function() {
+  modal2007office.style.display = "none";
+}
+window.onclick = function(event) {
+  if (event.target == modal2007office) {
+    modal2007office.style.display = "none";
+  }
+}
+
+/*------------------------------Modal 2007 macos105------------------------*/
+var modal2007macos105 = document.getElementById("modal_2007_macos105");
+var btn2007macos105 = document.getElementById("btn_modal_macos105_2007");
+var span2007macos105 = document.getElementsByClassName("closemacos1052007")[0];
+btn2007macos105.onclick = function() {
+  modal2007macos105.style.display = "block";
+}
+span2007macos105.onclick = function() {
+  modal2007macos105.style.display = "none";
+}
+window.onclick = function(event) {
+  if (event.target == modal2007macos105) {
+    modal2007macos105.style.display = "none";
+  }
+}
+
+/*------------------------------Modal 2008 appletv------------------------*/
+var modal2008appletv = document.getElementById("modal_2008_appletv");
+var btn2008appletv = document.getElementById("btn_modal_appletv_2008");
+var span2008appletv = document.getElementsByClassName("closeappletv2008")[0];
+btn2008appletv.onclick = function() {
+  modal2008appletv.style.display = "block";
+}
+span2008appletv.onclick = function() {
+  modal2008appletv.style.display = "none";
+}
+window.onclick = function(event) {
+  if (event.target == modal2008appletv) {
+    modal2008appletv.style.display = "none";
+  }
+}
+/*------------------------------Modal 2008 firefox3------------------------*/
+var modal2008firefox3 = document.getElementById("modal_2008_firefox3");
+var btn2008firefox3 = document.getElementById("btn_modal_firefox3_2008");
+var span2008firefox3 = document.getElementsByClassName("closefirefox32008")[0];
+btn2008firefox3.onclick = function() {
+  modal2008firefox3.style.display = "block";
+}
+span2008firefox3.onclick = function() {
+  modal2008firefox3.style.display = "none";
+}
+window.onclick = function(event) {
+  if (event.target == modal2008firefox3) {
+    modal2008firefox3.style.display = "none";
+  }
+}
+
+/*------------------------------Modal 2008 openoffice3------------------------*/
+var modal2008openoffice3 = document.getElementById("modal_2008_openoffice3");
+var btn2008openoffice3 = document.getElementById("btn_modal_openoffice3_2008");
+var span2008openoffice3 = document.getElementsByClassName("closeopenoffice32008")[0];
+btn2008openoffice3.onclick = function() {
+  modal2008openoffice3.style.display = "block";
+}
+span2008openoffice3.onclick = function() {
+  modal2008openoffice3.style.display = "none";
+}
+window.onclick = function(event) {
+  if (event.target == modal2008openoffice3) {
+    modal2008openoffice3.style.display = "none";
+  }
+}
+
+/*------------------------------Modal 2009 bitcoin------------------------*/
+var modal2009bitcoin = document.getElementById("modal_2009_bitcoin");
+var btn2009bitcoin= document.getElementById("btn_modal_bitcoin_2009");
+var span2009bitcoin = document.getElementsByClassName("closebitcoin2009")[0];
+btn2009bitcoin.onclick = function() {
+  modal2009bitcoin.style.display = "block";
+}
+span2009bitcoin.onclick = function() {
+  modal2009bitcoin.style.display = "none";
+}
+window.onclick = function(event) {
+  if (event.target == modal2009bitcoin) {
+    modal2009bitcoin.style.display = "none";
+  }
+}
+
+/*------------------------------Modal 2010 cloud------------------------*/
+var modal2010cloud = document.getElementById("modal_2010_cloud");
+var btn2010cloud = document.getElementById("btn_modal_cloud_2010");
+var span2010cloud = document.getElementsByClassName("closecloud2010")[0];
+btn2010cloud.onclick = function() {
+  modal2010cloud.style.display = "block";
+}
+span2010cloud.onclick = function() {
+  modal2010cloud.style.display = "none";
+}
+window.onclick = function(event) {
+  if (event.target == modal2010cloud) {
+    modal2010cloud.style.display = "none";
+  }
+}
+
+/*------------------------------Modal 2011 libreoffice------------------------*/
+var modal2011libreoffice = document.getElementById("modal_2011_libreoffice");
+var btn2011libreoffice = document.getElementById("btn_modal_libreoffice_2011");
+var span2011libreoffice = document.getElementsByClassName("closelibreoffice2011")[0];
+btn2011libreoffice.onclick = function() {
+  modal2011libreoffice.style.display = "block";
+}
+span2011libreoffice.onclick = function() {
+  modal2011libreoffice.style.display = "none";
+}
+window.onclick = function(event) {
+  if (event.target == modal2011libreoffice) {
+    modal2011libreoffice.style.display = "none";
+  }
+}
+
+/*------------------------------Modal 2012 windows8------------------------*/
+var modal2012windows8 = document.getElementById("modal_2012_windows8");
+var btn2012windows8 = document.getElementById("btn_modal_windows8_2012");
+var span2012windows8 = document.getElementsByClassName("closewindows82012")[0];
+btn2012windows8.onclick = function() {
+  modal2012windows8.style.display = "block";
+}
+span2012windows8.onclick = function() {
+  modal2012windows8.style.display = "none";
+}
+window.onclick = function(event) {
+  if (event.target == modal2012windows8) {
+    modal2012windows8.style.display = "none";
+  }
+}
+
+/*------------------------------Modal 2013 smartpc------------------------*/
+var modal2013smartpc = document.getElementById("modal_2013_smartpc");
+var btn2013smartpc = document.getElementById("btn_modal_smartpc_2013");
+var span2013smartpc = document.getElementsByClassName("closesmartpc2013")[0];
+btn2013smartpc.onclick = function() {
+  modal2013smartpc.style.display = "block";
+}
+span2013smartpc.onclick = function() {
+  modal2013smartpc.style.display = "none";
+}
+window.onclick = function(event) {
+  if (event.target == modal2013smartpc) {
+    modal2013smartpc.style.display = "none";
+  }
+}
+/*------------------------------Modal 2013 snowden------------------------*/
+var modal2013snowden = document.getElementById("modal_2013_snowden");
+var btn2013snowden = document.getElementById("btn_modal_snowden_2013");
+var span2013snowden = document.getElementsByClassName("closesnowden2013")[0];
+btn2013snowden.onclick = function() {
+  modal2013snowden.style.display = "block";
+}
+span2013snowden.onclick = function() {
+  modal2013snowden.style.display = "none";
+}
+window.onclick = function(event) {
+  if (event.target == modal2013snowden) {
+    modal2013snowden.style.display = "none";
+  }
+}
+
+/*------------------------------Modal 2014 objetcon------------------------*/
+var modal2014objetcon = document.getElementById("modal_2014_objetcon");
+var btn2014objetcon = document.getElementById("btn_modal_objetcon_2014");
+var span2014objetcon = document.getElementsByClassName("closeobjetcon2014")[0];
+btn2014objetcon.onclick = function() {
+  modal2014objetcon.style.display = "block";
+}
+span2014objetcon.onclick = function() {
+  modal2014objetcon.style.display = "none";
+}
+window.onclick = function(event) {
+  if (event.target == modal2014objetcon) {
+    modal2014objetcon.style.display = "none";
+  }
+}
+
+/*------------------------------Modal 2015 darknet------------------------*/
+var modal2015darknet = document.getElementById("modal_2015_darknet");
+var btn2015darknet = document.getElementById("btn_modal_darknet_2015");
+var span2015darknet = document.getElementsByClassName("closedarknet2015")[0];
+btn2015darknet.onclick = function() {
+  modal2015darknet.style.display = "block";
+}
+span2015darknet.onclick = function() {
+  modal2015darknet.style.display = "none";
+}
+window.onclick = function(event) {
+  if (event.target == modal2015darknet) {
+    modal2015darknet.style.display = "none";
+  }
+}
+
+/*------------------------------Modal 2016 chrome------------------------*/
+var modal2016chrome = document.getElementById("modal_2016_chrome");
+var btn2016chrome = document.getElementById("btn_modal_chrome_2016");
+var span2016chrome = document.getElementsByClassName("closechrome2016")[0];
+btn2016chrome.onclick = function() {
+  modal2016chrome.style.display = "block";
+}
+span2016chrome.onclick = function() {
+  modal2016chrome.style.display = "none";
+}
+window.onclick = function(event) {
+  if (event.target == modal2016chrome) {
+    modal2016chrome.style.display = "none";
+  }
+}
+
+/*------------------------------Modal 2016 internetobj------------------------*/
+var modal2016internetobj = document.getElementById("modal_2016_internetobj");
+var btn2016internetobj = document.getElementById("btn_modal_internetobj_2016");
+var span2016internetobj = document.getElementsByClassName("closeinternetobj2016")[0];
+btn2016internetobj.onclick = function() {
+  modal2016internetobj.style.display = "block";
+}
+span2016internetobj.onclick = function() {
+  modal2016internetobj.style.display = "none";
+}
+window.onclick = function(event) {
+  if (event.target == modal2016internetobj) {
+    modal2016internetobj.style.display = "none";
+  }
+}
+/*------------------------------Modal 2017 wannacry------------------------*/
+var modal2017wannacry = document.getElementById("modal_2017_wannacry");
+var btn2017wannacry = document.getElementById("btn_modal_wannacry_2017");
+var span2017wannacry = document.getElementsByClassName("closewannacry2017")[0];
+btn2017wannacry.onclick = function() {
+  modal2017wannacry.style.display = "block";
+}
+span2017wannacry.onclick = function() {
+  modal2017wannacry.style.display = "none";
+}
+window.onclick = function(event) {
+  if (event.target == modal2017wannacry) {
+    modal2017wannacry.style.display = "none";
+  }
+}
+
+/*------------------------------Modal 2018 canalytica------------------------*/
+var modal2018canalytica = document.getElementById("modal_2018_canalytica");
+var btn2018canalytica = document.getElementById("btn_modal_canalytica_2018");
+var span2018canalytica = document.getElementsByClassName("closecanalytica2018")[0];
+btn2018canalytica.onclick = function() {
+  modal2018canalytica.style.display = "block";
+}
+span2018canalytica.onclick = function() {
+  modal2018canalytica.style.display = "none";
+}
+window.onclick = function(event) {
+  if (event.target == modal2018canalytica) {
+    modal2018canalytica.style.display = "none";
+  }
+}
+
+/*------------------------------Modal 2019 lexar------------------------*/
+var modal2019lexar = document.getElementById("modal_2019_lexar");
+var btn2019lexar = document.getElementById("btn_modal_lexar_2019");
+var span2019lexar = document.getElementsByClassName("closelexar2019")[0];
+btn2019lexar.onclick = function() {
+  modal2019lexar.style.display = "block";
+}
+span2019lexar.onclick = function() {
+  modal2019lexar.style.display = "none";
+}
+window.onclick = function(event) {
+  if (event.target == modal2019lexar) {
+    modal2019lexar.style.display = "none";
+  }
+}
+
+/*------------------------------Modal 2019 google------------------------*/
+var modal2019google = document.getElementById("modal_2019_google");
+var btn2019google = document.getElementById("btn_modal_google_2019");
+var span2019google = document.getElementsByClassName("closegoogle2019")[0];
+btn2019google.onclick = function() {
+  modal2019google.style.display = "block";
+}
+span2019google.onclick = function() {
+  modal2019google.style.display = "none";
+}
+window.onclick = function(event) {
+  if (event.target == modal2019google) {
+    modal2019google.style.display = "none";
+  }
+}
+
+/*------------------------------Modal 2020 covid------------------------*/
+var modal2020covid = document.getElementById("modal_2020_covid");
+var btn2020covid = document.getElementById("btn_modal_covid_2020");
+var span2020covid = document.getElementsByClassName("closecovid2020")[0];
+btn2020covid.onclick = function() {
+  modal2020covid.style.display = "block";
+}
+span2020covid.onclick = function() {
+  modal2020covid.style.display = "none";
+}
+window.onclick = function(event) {
+  if (event.target == modal2020covid) {
+    modal2020covid.style.display = "none";
   }
 }
