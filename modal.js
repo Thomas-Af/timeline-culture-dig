@@ -8,11 +8,13 @@ btn1969amd.onclick = function() {
 span1969amd.onclick = function() {
   modal1969amd.style.display = "none";
 }
-window.onclick = function(event) {
+/*window.onclick = function(event) {
   if (event.target == modal1969amd) {
     modal1969amd.style.display = "none";
   }
-}
+}*/
+
+
 
 //var test = document.getElementById('')
 
@@ -26,11 +28,11 @@ btn1970pdp.onclick = function() {
 span1970pdp.onclick = function() {
   modal1970pdp.style.display = "none";
 }
-window.onclick = function(event) {
+/*window.onclick = function(event) {
   if (event.target == modal1970pdp) {
     modal1970pdp.style.display = "none";
   }
-}
+}*/
 
 /*------------------------------Modal 1970 souris------------------------*/
 var modal1970souris = document.getElementById("modal_1970_souris");
