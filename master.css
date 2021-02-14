@@ -23,6 +23,84 @@
     margin: 10px 0 0 0;
     font-weight: normal;
 }
+
+
+/*-----------------------------Menu-----------------------------------------------*/
+.menu{
+  width: 90%;
+  margin: 0 auto;
+}
+
+nav{
+  float: right;
+}
+
+nav ul{
+  display: block;
+  padding: 0;
+  list-style-type : none;
+  display: flex;
+}
+
+nav a{
+  display: block;
+  box-sizing: border-box;
+  padding: 0.75rem 1rem;
+  color: #eee;
+  text-decoration: none;
+  background-color: #aaaaaa;
+}
+nav a:hover{
+  background-color: #C24852;
+}
+
+@keyframes menuShow {
+  0% {
+    left: 2em;
+  } /*en dehosr de la vue*/
+  100% {
+    left: 1em;
+  } /* visible*/
+}
+header input[type="checkbox"]{
+  display: none;
+}
+header input[type="checkbox"]:checked ~ nav{
+  display: block;
+  animation: menuShow 0.5s normal;
+}
+
+header label{
+  float: right;
+  position: fixed;
+  left: 4.4em;
+  top: 0.3em;
+  display: none;
+  font-size: 2rem;
+  line-height: 100px;
+  cursor: pointer;
+  color: #eee;
+}
+
+  header label{
+    display: block;
+  }
+
+  header nav{
+    position: fixed;
+    z-index: 10;
+    display: none;
+    left: 1em;
+    top: 75px;
+    width: 150px;
+  }
+
+  nav ul{
+    flex-direction: column;
+    margin: 0;
+  }
+
+
 /* --------------------------Body----------------------------------------------------- */
 
 body {
@@ -30,7 +108,6 @@ body {
       margin: 0 auto;
       flex-wrap: wrap;
       flex-direction: column;
-      max-width: 700px;
       position: relative;
       background : darkslategrey;
 }
